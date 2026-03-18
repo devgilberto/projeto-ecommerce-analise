@@ -27,7 +27,6 @@ projeto_ecommerce_analise/
 ├── consultas_sql/ # Queries utilizadas na análise
 ├── dashboard/ # Dashboard Power BI + prints
 ├── imagens/ # Evidências da limpeza de dados
-├── ecommerce.db # Banco de dados SQLite
 └── README.md
 
 
